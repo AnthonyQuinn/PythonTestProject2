@@ -36,3 +36,15 @@ print("It's ??:", q_request)
 #Test push 23 02 20 @14:57
 ''''Testing  23-02-20 @ 18:43'''
 '''The last great push?'''
+'''One more time'''
+print("r - Read - Default value. Opens a file for reading, error if the file does not exist",)
+print("a - Append - Opens a file for appending, creates the file if it does not exis",)
+print("w - Write - Opens a file for writing, creates the file if it does not exist",)
+print("x - Create - Creates the specified file, returns an error if the file exists",)
+
+
+
+
+
+
+
